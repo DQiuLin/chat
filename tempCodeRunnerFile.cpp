@@ -1,0 +1,1 @@
+if ((strcmp(buf, "quit\n") == 0) || (strcmp(buf, "exit\n") == 0))
